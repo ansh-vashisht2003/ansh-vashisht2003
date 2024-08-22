@@ -47,7 +47,7 @@ Feel free to reach out to me:
 
 ## 📈 Profile Visits
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ansh-vashisht)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ansh-vashisht2003)
 
 ## ✨ Quote
 
@@ -56,4 +56,4 @@ Feel free to reach out to me:
 
 ## 💻 Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-vashisht&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-vashisht2003&layout=compact&theme=radical)
