@@ -56,4 +56,4 @@ Feel free to reach out to me:
 
 ## 💻 Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-vashisht2003layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-vashisht2003&layout=compact&theme=radical)
