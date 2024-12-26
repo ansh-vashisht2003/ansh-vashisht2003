@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ansh Vashisht!
 
-Welcome to my GitHub profile! I'm passionate about C++, C, Java, and Full Stack development. I love collaborating on innovative projects and sharing knowledge with the community. 
+Welcome to my GitHub profile! As a motivated enthusiast, I excel in both collaborative and independent work, bringing strong organizational skills and a problem-solving mindset. With a focus on leveraging my technical expertise, I aim to innovate, optimize processes, and create impactful solutions. I embrace challenges that push the limits of creativity and technology. From leading initiatives to driving projects forward, I am dedicated to continuous learning and contributing meaningfully to success. 
 
 ## 🛠️ Technologies & Tools
 
