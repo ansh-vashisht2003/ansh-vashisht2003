@@ -86,7 +86,6 @@ An environmental data visualization project to track pollution trends using R.
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-vashisht2003&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh-vashisht2003&show_icons=true&theme=radical)
 
 ---
 
