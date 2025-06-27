@@ -1,61 +1,118 @@
 # 👋 Hello, I'm Ansh Vashisht!
 
-Welcome to my GitHub profile! As a motivated enthusiast, I excel in both collaborative and independent work, bringing strong organizational skills and a problem-solving mindset. With a focus on leveraging my technical expertise, I aim to innovate, optimize processes, and create impactful solutions. I embrace challenges that push the limits of creativity and technology. From leading initiatives to driving projects forward, I am dedicated to continuous learning and contributing meaningfully to success. 
+Welcome to my GitHub profile! I’m a passionate full-stack developer who thrives in both collaborative and independent environments. With a strong foundation in modern web technologies, I bring a problem-solving mindset, organizational skills, and a commitment to continuous learning.
 
-## 🛠️ Technologies & Tools
+My journey involves turning ideas into scalable, impactful solutions, with a focus on clean UI, efficient backend systems, and real-time applications. Whether building from scratch or optimizing existing systems, I strive to create user-first, innovative digital experiences.
 
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages & Libraries
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 🔭 Projects
+### Backend & DB
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=Zustand&logoColor=white)
 
-### [Language Hub](https://github.com/ansh-vashisht/LangHub.github.io)
-This project aims to provide a platform where one can learn computer languages and check their knowledge. It uses HTML, CSS, and JavaScript, focusing on learning new languages and upgrading existing skills.
-**Skills:** Front-End Development, HTML5, JavaScript, CSS, AJAX
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### [Air Quality Analysis](https://github.com/ansh-vashisht/AirQuality.github.io)
-In this project, using R language, we analyzed key pollutants—Sulphur Dioxide (SO2), Nitrous Dioxide (NO2), Respirable Suspended Particulate Matter (RSPM), and Suspended Particulate Matter (SPM). Extensive graphs were used to compare past and present situations, including bar charts, heat maps, and line charts, highlighting pollution levels and sources.
-**Skills:** Data Analysis, R language, Databases
+---
 
-### [FoodDan](https://github.com/ansh-vashisht/foodDan.github.io)
-The comprehensive food donation management system (FoodDan) connects donors, admins, and volunteers. Donors register and provide details like food type, location, name, and quantity, while volunteers distribute food orders. Admins monitor activities such as food tracking, history, and feedback. This system addresses conventional challenges, promoting community participation and fostering a culture of voluntary food donation.
-**Skills:** Database Management System (DBMS), SQL, PHP, MySQLi, XAMPP
+## 📚 Notable Projects
 
-### [MEDCHAIN](https://github.com/ansh-vashisht2003/MedChain.github.io)
-This project involves the development of Med Chain, a comprehensive platform designed to revolutionize the medical supply chain by ensuring seamless interactions among three primary stakeholders: chemist shop owners, wholesalers, and delivery personnel. Med Chain addresses the critical need for a structured and efficient system to manage the flow of medical supplies while prioritizing accuracy, transparency, and scalability. Med Chain prioritizes building a strong, scalable, and transformative solution to address the challenges of the medical supply chain, setting the stage for a revolutionary impact in this critical domain.
-**Skills:** Java Server Pages (JSP), MySql, Apache, AJAX, HTML, CSS, Apache Tomcat 9 
+### 🚀 [📚 BookBuddy](https://github.com/ansh-vashisht2003/BookBuddy)
+A MERN-stack web app for managing personal libraries, writing reviews, and chatting in real-time with other users.  
 
-## 🌱 Learning & Development
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS, Zustand, JWT, Multer, Nodemailer, Socket.IO  
+**Highlights:** WhatsApp-like real-time chat, secure auth, role-based dashboards, profile image upload, clean UI.
 
-Currently, I'm focusing on improving my skills in:
-- DSA in C++
-- Full Stack Web Development
-- Springboot and ReactJS
+---
 
-## 📫 Contact
+### 💊 [MedChain](https://github.com/ansh-vashisht2003/MedChain.github.io)
+A medical supply chain tracking system for pharmacies, chemists, and wholesalers.  
 
-Feel free to reach out to me:
-- **Email**: [anshvashisht.2003@gmail.com](mailto:anshvashisht.2003@gmail.com)
-- **LinkedIn**: [Ansh Vashisht](https://www.linkedin.com/in/ansh-vashisht-1759681ba/)
-- **LeetCode**: [ansh-vashisht](https://leetcode.com/u/ansh-vashisht/)
+**Tech Stack:** JSP, MySQL, Apache Tomcat 9, AJAX  
+**Highlights:** Order tracking, dashboard for every role, real-time updates.
 
-
-## 📈 Profile Visits
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=ansh-vashisht2003)
-
-## ✨ Quote
-
-"The best way to predict the future is to invent it." - Alan Kay
+---
 
 
-## 💻 Languages Used
+### 🍱 [FoodDan](https://github.com/ansh-vashisht/foodDan.github.io)
+A food donation system connecting donors, volunteers, and admins to minimize food waste.  
+
+**Tech Stack:** PHP, MySQL, HTML, CSS, JS  
+**Highlights:** Donor tracking, admin dashboard, food request management.
+
+---
+
+
+### 🌐 [Language Hub](https://github.com/ansh-vashisht/LangHub.github.io)
+An interactive language learning platform with quizzes, videos, and concept visualizations.  
+
+**Tech Stack:** HTML5, CSS3, JavaScript, AJAX  
+**Highlights:** Quiz system, video library, real-time concept testing.
+
+---
+
+### 🌫️ [Air Quality Analysis](https://github.com/ansh-vashisht/AirQuality.github.io)
+An environmental data visualization project to track pollution trends using R.  
+
+**Tech Stack:** R, RStudio  
+**Highlights:** Heatmaps, bar charts, time series, seasonal pollution analysis.
+
+---
+
+
+## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-vashisht2003&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh-vashisht2003&show_icons=true&theme=radical)
+
+---
+
+## 📚 Currently Learning
+
+- DSA in C++
+- Full Stack Development with MERN
+- Spring Boot with ReactJS
+- Docker & Kubernetes (soon)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email:** [anshvashisht.2003@gmail.com](mailto:anshvashisht.2003@gmail.com)
+- 💼 **LinkedIn:** [Ansh Vashisht](https://www.linkedin.com/in/ansh-vashisht-1759681ba/)
+- 🧩 **LeetCode:** [ansh-vashisht](https://leetcode.com/u/ansh-vashisht/)
+
+---
+
+## ✨ Quote to Live By
+
+> “The best way to predict the future is to invent it.” – Alan Kay
+
+---
+
+## 🔥 Profile Visits
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=ansh-vashisht2003)
