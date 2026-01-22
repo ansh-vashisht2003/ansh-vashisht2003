@@ -1,4 +1,19 @@
-# 👋 Hello, I'm Ansh Vashisht!
+<h1 align="center">Hi 👋, I'm Ansh Vashisht</h1>
+
+<p align="center">
+  <a href="https://anshvashisht.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Building+Scalable+Web+Apps;Turning+Ideas+into+Reality" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+## 🌐 Personal Website
+- 🔗 Portfolio: https://anshvashisht.vercel.app/
+
+---
+
+## 👨‍💻 About Me
 
 Welcome to my GitHub profile! I’m a passionate full-stack developer who thrives in both collaborative and independent environments. With a strong foundation in modern web technologies, I bring a problem-solving mindset, organizational skills, and a commitment to continuous learning.
 
@@ -30,7 +45,7 @@ My journey involves turning ideas into scalable, impactful solutions, with a foc
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=Zustand&logoColor=white)
 
-### DevOps & Tools
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -40,48 +55,55 @@ My journey involves turning ideas into scalable, impactful solutions, with a foc
 
 ## 📚 Notable Projects
 
-### 🚀 [📚 BookBuddy](https://github.com/ansh-vashisht2003/BookBuddy)
-A MERN-stack web app for managing personal libraries, writing reviews, and chatting in real-time with other users.  
+### 🚀 BookBuddy
+🔗 https://github.com/ansh-vashisht2003/BookBuddy  
+
+A MERN-stack web app for managing personal libraries, writing reviews, and chatting in real-time with other users.
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS, Zustand, JWT, Multer, Nodemailer, Socket.IO  
-**Highlights:** WhatsApp-like real-time chat, secure auth, role-based dashboards, profile image upload, clean UI.
+**Highlights:** Real-time chat, secure authentication, role-based dashboards, profile image upload, clean UI.
 
 ---
 
-### 💊 [MedChain](https://github.com/ansh-vashisht2003/MedChain.github.io)
-A medical supply chain tracking system for pharmacies, chemists, and wholesalers.  
+### 💊 MedChain
+🔗 https://github.com/ansh-vashisht2003/MedChain.github.io  
+
+A medical supply chain tracking system for pharmacies, chemists, and wholesalers.
 
 **Tech Stack:** JSP, MySQL, Apache Tomcat 9, AJAX  
-**Highlights:** Order tracking, dashboard for every role, real-time updates.
+**Highlights:** Order tracking, dashboards for each role, real-time updates.
 
 ---
 
+### 🍱 FoodDan
+🔗 https://github.com/ansh-vashisht/foodDan.github.io  
 
-### 🍱 [FoodDan](https://github.com/ansh-vashisht/foodDan.github.io)
-A food donation system connecting donors, volunteers, and admins to minimize food waste.  
+A food donation system connecting donors, volunteers, and admins to minimize food waste.
 
-**Tech Stack:** PHP, MySQL, HTML, CSS, JS  
+**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript  
 **Highlights:** Donor tracking, admin dashboard, food request management.
 
 ---
 
+### 🌐 Language Hub
+🔗 https://github.com/ansh-vashisht/LangHub.github.io  
 
-### 🌐 [Language Hub](https://github.com/ansh-vashisht/LangHub.github.io)
-An interactive language learning platform with quizzes, videos, and concept visualizations.  
+An interactive language learning platform with quizzes, videos, and concept visualizations.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, AJAX  
 **Highlights:** Quiz system, video library, real-time concept testing.
 
 ---
 
-### 🌫️ [Air Quality Analysis](https://github.com/ansh-vashisht/AirQuality.github.io)
-An environmental data visualization project to track pollution trends using R.  
+### 🌫️ Air Quality Analysis
+🔗 https://github.com/ansh-vashisht/AirQuality.github.io  
+
+An environmental data visualization project to track pollution trends using R.
 
 **Tech Stack:** R, RStudio  
 **Highlights:** Heatmaps, bar charts, time series, seasonal pollution analysis.
 
 ---
-
 
 ## 📈 GitHub Stats
 
@@ -94,15 +116,16 @@ An environmental data visualization project to track pollution trends using R.
 - DSA in C++
 - Full Stack Development with MERN
 - Spring Boot with ReactJS
-- Docker & Kubernetes (soon)
+- Docker & Kubernetes
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** [anshvashisht.2003@gmail.com](mailto:anshvashisht.2003@gmail.com)
-- 💼 **LinkedIn:** [Ansh Vashisht](https://www.linkedin.com/in/ansh-vashisht-1759681ba/)
-- 🧩 **LeetCode:** [ansh-vashisht](https://leetcode.com/u/ansh-vashisht/)
+- 🌐 Portfolio: https://anshvashisht.vercel.app/
+- 📧 Email: anshvashisht.2003@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ansh-vashisht-1759681ba/  
+- 🧩 LeetCode: https://leetcode.com/u/ansh-vashisht/
 
 ---
 
