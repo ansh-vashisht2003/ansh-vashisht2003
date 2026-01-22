@@ -45,7 +45,7 @@ My journey involves turning ideas into scalable, impactful solutions, with a foc
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=Zustand&logoColor=white)
 
-### Tools
+### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -122,10 +122,12 @@ An environmental data visualization project to track pollution trends using R.
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: https://anshvashisht.vercel.app/
-- 📧 Email: anshvashisht.2003@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/ansh-vashisht-1759681ba/  
-- 🧩 LeetCode: https://leetcode.com/u/ansh-vashisht/
+<p align="left">
+  <a href="https://anshvashisht.vercel.app/">🌐 <b>Portfolio</b></a> <br/>
+  <a href="mailto:anshvashisht.2003@gmail.com">📧 <b>Email Me</b></a> <br/>
+  <a href="https://www.linkedin.com/in/ansh-vashisht-1759681ba/">💼 <b>LinkedIn Profile</b></a> <br/>
+  <a href="https://leetcode.com/u/ansh-vashisht/">🧠 <b>LeetCode Profile</b></a>
+</p>
 
 ---
 
